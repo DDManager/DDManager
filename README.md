@@ -20,3 +20,5 @@ Baekjoon OJ 전체 언어 소스 코드
 제가 배우고 있는 언어(C, C++, Java 등) 뿐만 아니라, 관심 있는 언어(Pascal, Kotlin 등)도 일부 포함되어 있습니다.
 
 주석을 최대한 달려고 노력하고 있으나, 약간 부족할 수도 있으니 이해 해주세요.
+
+Copyright 2019. DDManager all rights reserved.
