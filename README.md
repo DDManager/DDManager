@@ -1,5 +1,5 @@
 # BOJ-DDM
-Baekjoon OJ 전체 언어 소스 코드
+Baekjoon OJ 전체 언어 소스 코드 및 난이도 계산 파일
 
 작성자 : 동동매니저(DDManager)
 
@@ -20,5 +20,13 @@ Baekjoon OJ 전체 언어 소스 코드
 제가 배우고 있는 언어(C, C++, Java 등) 뿐만 아니라, 관심 있는 언어(Pascal, Kotlin 등)도 일부 포함되어 있습니다.
 
 주석을 최대한 달려고 노력하고 있으나, 약간 부족할 수도 있으니 이해 해주세요.
+
+<b>※ 안내 4</b>
+
+난이도 계산 파일은 1달에 1번씩 업로드할 예정입니다.
+
+JSON 파일로 업로드하며, 자세한 공식은 제 블로그 글을 참고해주세요.
+
+블로그 글 주소 : https://ddmanager.tistory.com/105
 
 Copyright 2019. DDManager all rights reserved.
