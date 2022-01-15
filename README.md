@@ -1,5 +1,5 @@
-# DDManager.github.io
+# DDManager
 
-DDManager's GitHub Blog
+(임동우, 순천향대 컴퓨터소프트웨어공학과 18학번)
 
-Copyright 2019. DDManager all rights reserved.
+[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=DDManager)](https://solved.ac/DDManager)
